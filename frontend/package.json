@@ -1,0 +1,39 @@
+{
+  "name": "documentation_tool",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.1.1",
+    "@chakra-ui/next-js": "^2.2.0",
+    "@chakra-ui/react": "^2.10.4",
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@lottiefiles/dotlottie-react": "^0.9.3",
+    "@react-oauth/google": "^0.12.1",
+    "axios": "^1.7.7",
+    "framer-motion": "^11.11.11",
+    "motion": "^11.11.17",
+    "next": "^14.2.13",
+    "next.js": "^1.0.3",
+    "react": "^18",
+    "react-dom": "^18",
+    "react-dropzone": "^14.2.3",
+    "react-icons": "^5.3.0",
+    "react-markdown": "^9.0.1"
+  },
+  "devDependencies": {
+    "@types/json-schema": "^7.0.15",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8.57.0",
+    "eslint-config-next": "^14.2.13",
+    "typescript": "^5"
+  }
+}
